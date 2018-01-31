@@ -288,5 +288,3 @@ var chart2 = ui.Chart.image.byRegion(
   setSeriesNames(['Pre Soil Signature', 'Post Soil Signature'])
   .setOptions(options);
 print (chart2);
-
-i
