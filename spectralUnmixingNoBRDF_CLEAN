@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//Spectral Unmixing Analysis in GEE to Assess the Change in Sedimentation Resulting from Illegal Gold Mining in the Peruvian Amazon
+//Preliminary: Spectral Unmixing Analysis in GEE to Assess the Change in Sedimentation Resulting from Illegal Gold Mining in the Peruvian Amazon
 //Kelsey E. Herndon, Graduate Research Assistant, SERVIR Science Coordination Office, The University of Alabama in Huntsville
 //Date Created: 10/15/2017
 //Last Modified: 11/3/2017 
@@ -289,3 +289,4 @@ var chart2 = ui.Chart.image.byRegion(
   .setOptions(options);
 print (chart2);
 
+i
