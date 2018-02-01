@@ -5,8 +5,8 @@
 //Last Modified: 11/3/2017
 //Purpose: The purpose of this script is to identify a pre- and post-mining Landsat scene covering the Peruvian Amazaon, define endmembers within the Landsat scene, apply
 //spectral unmixing analysis, and measure the relative change in the soil percentage of river pixels at several "virtual gage" locations
-//Notes: COST atmospheric correction script modified from original by Kel Markert, SERVIR SCO; 
-//BRDF correction script modified from original by Daniel Wiell and Erik Lindquist of the United Nations Food and Agriculture Organization
+//Notes: COST atmospheric correction function modified from original by Kel Markert, SERVIR SCO; 
+//BRDF correction function modified from original by Daniel Wiell and Erik Lindquist of the United Nations Food and Agriculture Organization
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //def imports
