@@ -19,4 +19,4 @@ https://code.earthengine.google.com/70fc9fe026b118142e05464458038316
 https://code.earthengine.google.com/256fe7b699486b70905aa1b5119dc407
 
 7. quickDOS_l8.js
-https://code.earthengine.google.com/0a751750695277b3a1b4c7cd8d93e5b8 
+https://code.earthengine.google.com/69836613f039ba33aa772b10e118da6f 
