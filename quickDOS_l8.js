@@ -20,8 +20,6 @@ function dos(img) {
   var bands = ['B2','B3','B4','B5','B6','B7'];
   //create ee.Image to add dos corrected bands to
   var sr = ee.Image(0);
-  //create a geometry representing the entire L8 scene
-  var geometryl8 = ee.Geometry(lstoa.get('system:footprint'));
   //create loop to apply DOS to each band
   for (var i=0;i<bands.length;i++){
     //identify the band you will be applying the dos to
